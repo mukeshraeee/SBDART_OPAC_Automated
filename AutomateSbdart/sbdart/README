@@ -1,0 +1,23 @@
+Readme by Saugat.
+
+date: 20 feb 2017
+	edited: Makefile to accomodate gfortran compiler (instead of the default f90)
+	      : Test_runs file edited from sbdart to ./sbdart
+
+Compilation:
+
+	1. Open Terminal.
+	2. Goto the directory where this readme file is located (in terminal). i.e 'cd directory-path'
+	3. type:
+		make
+	4. if there are no errors file  will be compiled.
+	5. compiled file is named 'sbdart' by default.
+
+Running sbdart:
+	1. cd to the sbdart directory in terminal
+	2. change the 'INPUT' file with required input parameters.
+	3. type in terminal:
+		sbdart INPUT >outputFilename
+	4. outputs are now stored in the given outputFilename.
+
+refer to sbdart manual for the input parameters.

@@ -1,0 +1,26 @@
+WARNING >>>>> SETDIS--beam angle=computational angle; change NSTR
+
+######################################################################
+
+
+&input
+time=08,
+iday=74,
+alat=28.21,
+alon=85.61,
+wlinf=0.25,
+wlsup=4.0,
+wlinc=0.05,
+zout=0,100,
+idatm=0,
+uw=0.29,
+uo3=0.257,
+isalb=0,
+albcon=0.950,
+wlbaer=0,
+qbaer=0,
+wbaer=0,
+gbaer=0,
+iout=10
+
+/
