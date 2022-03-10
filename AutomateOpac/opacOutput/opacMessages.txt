@@ -1,0 +1,324 @@
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
+ *********************************************************
+ * OPAC v3.16: Optical Properties of Aerosols and Clouds *
+ * ----------------------------------------------------  *
+ *                                                       *
+ *  The contents of OPAC is described in:                *
+ *  M. Hess, P. Koepke and I. Schult (1997):             *
+ *  "Optical Properties of Aerosols and Clouds:          *
+ *   The software package OPAC"                          *
+ *  Published in Bull. Am. Meteor. Soc.                  *
+ *                                                       *
+ * Coding: M. Hess                              14.11.97 *
+ * Additions/debugging: F.Veroustraete - Vito   06.11.09 *
+ *********************************************************
+  
+  
+ Operating system    : dos 
+ Total aero+clouds   :           19
+ Total aerosol types :            0
+ aerosol type        : Continental_Average			: nacomp
+ components          :   5
+ relative humidities :   1
+ wavelengths         :  13
+  
+ End of the OPAC fairy tale? No!
+ You can start post processing the ASCII output files now.
+ They are "opac.out" and "opac.dis".
+ Have fun.
